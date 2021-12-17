@@ -1,2 +1,3 @@
-# R-Project
+# R-Proj.
+
 Linking Rstudio with Github
